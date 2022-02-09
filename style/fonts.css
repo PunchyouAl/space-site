@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Bellefair&display=swap');
+h1 {
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: 'Bellefair', serif;
+    font-size: 100px;
+}
+
+h3 {
+    font-family: 'Bellefair', serif;
+    font-size: 56px;
+}
+
+h4 {
+    font-family: 'Bellefair', serif;
+    font-size: 32px;
+}
+
+h5 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 28px;
+    letter-spacing: 4.75;
+}
